@@ -1,0 +1,7 @@
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\bin\Debug\PTaT_Lab1.exe.config
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\bin\Debug\PTaT_Lab1.exe
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\bin\Debug\PTaT_Lab1.pdb
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\obj\Debug\PTaT_Lab1.csprojAssemblyReference.cache
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\obj\Debug\PTaT_Lab1.csproj.CoreCompileInputs.cache
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\obj\Debug\PTaT_Lab1.exe
+c:\users\артем\source\repos\PTaT_Lab1\PTaT_Lab1\obj\Debug\PTaT_Lab1.pdb
